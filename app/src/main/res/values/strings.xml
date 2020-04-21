@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Covid 19</string>
+    <string name="nama_provinsi">Nama Provinsi</string>
+    <string name="positif">Positif</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="hari_ke">Hari ke</string>
+    <string name="tanngal">Tanngal</string>
+    <string name="jumlah_kasus_baru_per_hari">Jumlah Kasus Baru per Hari</string>
+    <string name="jumlah_kasus_kumulatif">Jumlah Kasus Kumulatif</string>
+    <string name="jumlah_pasien_dalam_perawatan">Jumlah Pasien dalam Perawatan</string>
+    <string name="presentase_pasien_dalam_perawatan">Presentase Pasien dalam Perawatan</string>
+    <string name="jumlah_pasien_sembuh">Jumlah Pasien Sembuh</string>
+    <string name="presentase_pasien_sembuh">Presentase Pasien Sembuh</string>
+    <string name="jumlah_pasien_meninggal">Jumlah Pasien Meninggal</string>
+    <string name="presentase_pasien_meninggal">Presentase Pasien Meninggal</string>
+    <string name="jumlah_kasus_dirawat_per_hari">Jumlah Kasus Dirawat per Hari</string>
+    <string name="jumlah_kasus_sembuh_per_hari">Jumlah Kasus Sembuh per Hari</string>
+    <string name="jumlah_kasus_meninggal_per_hari">Jumlah Kasus Meninggal per Hari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nasional">Nasional</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="grafik">Grafik</string>
+    <string name="peta">Peta</string>
+    <string name="home">Home</string>
+    <string name="statistik">Statistik</string>
+    <string name="rumah_sakit">Rumah Sakit</string>
+    <string name="tes_diri">Tes Diri</string>
+    <string name="data">Data</string>
+    <string name="lindungi_diri">Lindungi Diri</string>
+    <string name="virus_corona">Virus Corona</string>
+    <string name="grafik_kasus_harian_covid_19">Grafik Kasus Harian Covid-19</string>
+    <string name="grafik_keseluruhan_kasus_covid_19">Grafik Keseluruhan Kasus Covid-19</string>
+</resources>
